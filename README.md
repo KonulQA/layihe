@@ -1,1 +1,2 @@
 # layihe
+Tural deyisiklik etdi.
